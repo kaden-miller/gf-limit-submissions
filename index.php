@@ -3,7 +3,7 @@
 /*
 Plugin Name: Gravity Forms - Limit Submissions
 Description: Limits Gravity Forms submissions to one per user indefinitely.
-Version: 1.1
+Version: 1.2
 Author: byFZK
 */
 
